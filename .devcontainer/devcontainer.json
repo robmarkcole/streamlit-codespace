@@ -2,7 +2,7 @@
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.7",
     "extensions": ["ms-python.python"],
     //"postCreateCommand": "bash .devcontainer/post_create.sh",
-    "forwardPorts": [8123],
+    "forwardPorts": [8501],
     "context": "..",
     "settings": {
       "terminal.integrated.shell.linux": "/bin/bash",
