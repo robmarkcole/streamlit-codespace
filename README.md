@@ -1,5 +1,5 @@
 # streamlit-codespace
-tryout Streamlit in a Github Codespace
+Goal: develop and test in devcontainer/codespace. Deploy to [streamlit sharing](https://blog.streamlit.io/introducing-streamlit-sharing/)
 
 * [Codespace docs](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces)
 * [Streamlit docs](https://docs.streamlit.io/en/stable/)
